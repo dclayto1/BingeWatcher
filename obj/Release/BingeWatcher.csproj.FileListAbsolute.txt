@@ -1,0 +1,12 @@
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\bin\Release\BingeWatcher.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\Interop.WMPLib.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.csproj.ResolveComReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.Properties.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\bin\Release\BingeWatcher.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\bin\Release\BingeWatcher.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\bin\Release\Interop.WMPLib.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\BingeWatcher\BingeWatcher\obj\Release\BingeWatcher.pdb
